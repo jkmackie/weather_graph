@@ -1,4 +1,3 @@
 # weather_graph
-Weather plots:
-Plotted weather measurements using pyplot and Pandas tools.
-Data downloaded from Harrisburg, PA.
+* Plotted Harrisburg, PA weather measurements using pyplot and Pandas tools.
+* JSON format weather data was downloaded from a URL.
